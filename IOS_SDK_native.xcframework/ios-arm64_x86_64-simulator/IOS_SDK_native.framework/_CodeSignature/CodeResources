@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		SWm0WRjau/TT/OgRdRVF4U4AmFU=
+		QgYyDR7Qh5ZXcKrNDTtNZ363GRw=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -22,35 +22,67 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/6a7-wj-Lpp-view-Apu-qn-nxf.nib</key>
 		<data>
-		WFh7W27irCbiJjUhxN7kyDnJbYI=
+		XaxUq8CbuQgzU0mRW0DAEKlmcZk=
+		</data>
+		<key>Base.lproj/Main.storyboardc/CAn-LP-kDu-view-WWW-uB-p8i.nib</key>
+		<data>
+		K/jo3rGXIUv6P4xmGCK/fK7wUXg=
 		</data>
 		<key>Base.lproj/Main.storyboardc/CardsPageViewController.nib</key>
 		<data>
-		hRuhTbUPa7WbkWBBDkP+uH3Z1Nk=
+		zuYP/rfE8gLPQT1vm/VGflfCqa8=
+		</data>
+		<key>Base.lproj/Main.storyboardc/DUd-Pp-SWn-view-nlf-GQ-0FP.nib</key>
+		<data>
+		DRV0LfbN2yi5p18RsiP5zqohA2M=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		Ziob3mkyVyH9//yEz2z616gEozo=
+		R9EymA0TgzgJQAw+W/7OzHsZidA=
+		</data>
+		<key>Base.lproj/Main.storyboardc/OBB-dt-4N7-view-sdi-YT-jmd.nib</key>
+		<data>
+		sFLe4nP3o7UMBdOtNXbba7anSc4=
+		</data>
+		<key>Base.lproj/Main.storyboardc/PaymentPopupViewController.nib</key>
+		<data>
+		iTxAF6HXoXhTZr3pLVtlVkfYLrU=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UIViewController-ytx-aP-IBa.nib</key>
+		<data>
+		IaOu4uVyAZ+dZImaxfn6qlABu8g=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UpiPageViewController.nib</key>
+		<data>
+		t52iRFqYe++hgMHAVw1eqUEteno=
 		</data>
 		<key>Base.lproj/Main.storyboardc/VfV-0F-I2m-view-fSX-1z-gAA.nib</key>
 		<data>
-		jd7KJayHG7DSdQoZqX6hbn8LR68=
+		rwx1QjLmeShwEVoBWl+ilJYhph8=
 		</data>
 		<key>Base.lproj/Main.storyboardc/WebViewController.nib</key>
 		<data>
-		ily2B/BKWWHIpa1KehSHjJ6VNOM=
+		Xng4Yk+b+I6Ax6NZg++26xlCE8A=
+		</data>
+		<key>Base.lproj/Main.storyboardc/dSd-jn-b8m-view-bbV-DR-lPz.nib</key>
+		<data>
+		+3JJwMr8dajK2ksmvJ//W5pExbk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/eBf-fA-QR4-view-9PG-Re-r9f.nib</key>
 		<data>
-		FpSHw6LpXgbc9vN/ZY2Xuma1n/U=
+		eysF9fiPC0MvycWohm2w9lFLcEs=
+		</data>
+		<key>Base.lproj/Main.storyboardc/failureScreen.nib</key>
+		<data>
+		nyoUfeYOzOcf9zTiEz+vMy2bJ78=
 		</data>
 		<key>Base.lproj/Main.storyboardc/landing_page.nib</key>
 		<data>
-		q2teXarSZAMfKO7J9gAOYXelp1Q=
+		zbxWKMJE7erlqQDBScSFXr2Ul1E=
 		</data>
 		<key>Base.lproj/Main.storyboardc/lep-Te-aa6-view-SB3-Dt-Q1S.nib</key>
 		<data>
-		niwaPC6ddLRoqaYSPb7yrsu11vk=
+		C0DNDjCj2Toivj0WszYzVfKwH64=
 		</data>
 		<key>Base.lproj/Main.storyboardc/loading_page.nib</key>
 		<data>
@@ -58,7 +90,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/nHB-RT-l94-view-YjW-WV-AJi.nib</key>
 		<data>
-		sMUwjnArsY00WusvTJJgIB4KXNg=
+		ZdkChgwAQzkDmvWiBLVcbxUJrho=
+		</data>
+		<key>Base.lproj/Main.storyboardc/netbankingpage.nib</key>
+		<data>
+		bUO3Jcuq1Zi/T1DXCg5wyG4cAkI=
+		</data>
+		<key>Base.lproj/Main.storyboardc/phoneNumberPopup.nib</key>
+		<data>
+		d7aO3BMOUjpORFmWc7+zUZt5S/Y=
 		</data>
 		<key>Base.lproj/Main.storyboardc/starting_page.nib</key>
 		<data>
@@ -68,57 +108,73 @@
 		<data>
 		dx6rv+xwC+zxm09SmdkRUpfplC0=
 		</data>
+		<key>Base.lproj/Main.storyboardc/xFj-m4-RHB-view-Czi-y7-2Yz.nib</key>
+		<data>
+		j9V5KzziC3b3r3VraO6hD1LBAE4=
+		</data>
+		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
+		<data>
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
+		</data>
 		<key>Base.lproj/Main.storyboardc/z7g-Tf-1qB-view-NtT-G3-4Ig.nib</key>
 		<data>
-		THPGI1SeVhXl0a5CFQYRXgpLvNk=
+		XufUZZkB+/tKSTcGjbAy0OBDwYI=
 		</data>
 		<key>Headers/IOS_SDK_V2.h</key>
 		<data>
 		4EV7w8vvTupTHUgVrpUaeWdgyZ0=
 		</data>
+		<key>Headers/IOS_SDK_native-Swift.h</key>
+		<data>
+		iyNGcZ/Kpc+N2T9oo6xXcTMC+qI=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		vs53Vq87ihbl5nN1ovoJMV+I/ac=
+		CrtFyCfq4T/OiTH/R96+74Cokfw=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZwrANacB2i0Idka7eMEXEHT8bp8=
+		SBssRxnSSB+b7I32vF9w6lzSSu8=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YIuQbPZrvetnqrWKPe3letBbAnM=
+		9BogTkKARx3pLwQ5lEC1WPw9PrI=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pSMC6fm+ZFOVAHmW+MSCUtcW65k=
+		kQkyKXlo65PkZZ3How1BrD3XwfA=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YIuQbPZrvetnqrWKPe3letBbAnM=
+		9BogTkKARx3pLwQ5lEC1WPw9PrI=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lfeUUmOr4qOQSNal4I8NwaiDzMM=
+		UWV77mlUDGOTb3eROTlCSg4EwEg=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZwrANacB2i0Idka7eMEXEHT8bp8=
+		SBssRxnSSB+b7I32vF9w6lzSSu8=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		BgP0gQvu6YRDa1nNzINtWh3yL84=
+		zq8lN0U4ZnqQi8ZyOcPr7Rt/kV0=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ysijm0o16iUNadAMcnFOzW/uwoQ=
+		nYTreSq2Kc5yk7ta2JVgMgwkpDI=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BgP0gQvu6YRDa1nNzINtWh3yL84=
+		zq8lN0U4ZnqQi8ZyOcPr7Rt/kV0=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5BkbaTHUo98guiMMHzgnYt3uzCI=
+		aLXu9MfL0sAGmqJ0SsptjyA8JOc=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		jftLpmiImBg+U3hB4vs6ZMWcOIg=
 		</data>
 		<key>logo_shimmer.json</key>
 		<data>
@@ -135,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4e57PTfUoB+XZd6QS781UlaA7VML1REzLEk5rR5MPgQ=
+			1RkaCeTkXHGJCL9QliJ6BhVJNYumoltPS2NlQ/vNo7I=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -163,56 +219,112 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JroC7uzSYJ6t2RV5uGsZojJs601KM4oskmwQqI9lh80=
+			4zAbrfrCzGlVlW7DREmfXcTs2W97Qad87vXLGi+M7K4=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/CAn-LP-kDu-view-WWW-uB-p8i.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qtYQPbhD7KD1rJKID/HzwDrckrSAzuNvhFELw08/qXU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/CardsPageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			POkw1fiPC2NxNaNgv7NZfF9VdPDeOwYBAhWb18A76dw=
+			i2VuOe7W2tXm7RcnImGr7KdzBgYk4HApIvaseeUJejI=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/DUd-Pp-SWn-view-nlf-GQ-0FP.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0URm/HauPyr8yMXVutKgR9T1yzbfh5EZ96HClj3ux6U=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jsN9kUe8CbJTrExC6N4fgsMDd0yjJaPRtg/L/Z40o+w=
+			73a6WKL8HGqIUj4Cxsjnu5jBxqxqAyAcg7U1VXk5TRw=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/OBB-dt-4N7-view-sdi-YT-jmd.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MXvFIMnosWIJ5l0juR8tO72HPY/TXl0owqt+z7ZOXoI=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/PaymentPopupViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OSM28fXG78nnE/DtSaZ5BWarkE33PznXCT4apiatXBo=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-ytx-aP-IBa.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3uBfM02U6DR2zAc20wgNcg9QN0CCvThtQfQvgaW2YYU=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UpiPageViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RjCiDr2/racyBUxodgeDnIZg+y8hboWoEQXQEPlc4qg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/VfV-0F-I2m-view-fSX-1z-gAA.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vFDeuhK3o53rSCwhSffvr9stCNAmXNqSgoeT+dsO/2c=
+			N0mYKFOJBQ6gSgC4t2hCvZhIu95ypjYhJp+Ibw4q4ag=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/WebViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			odybX8dFFzSIycfjTnFJLj8pUOtPvkEmyPNZNfUI41k=
+			As+oDkePEEnvlWjeYOa5jJkbaCdlwqu0aMfegD0oNVo=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/dSd-jn-b8m-view-bbV-DR-lPz.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jdU2oC9zGiT4zZwX2Z/b3jIApaBYTrJZZ9HJ6IlQMdI=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/eBf-fA-QR4-view-9PG-Re-r9f.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3rFVbBDAGpVUOOfRYxQh3jWwAzc79vAMpPgkhXKrV2s=
+			CWNe8sPjnwCT1fNxgm0rv2/aR5ZEzIyhcJBhJyDn7D8=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/failureScreen.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2MSispOE/JqOz1mCLXacOAWlqBMe3+xCDD+CaOh2pJA=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/landing_page.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Z0Ow4n/qYf0b4UNIR/jsaf5aPlt+ngjNkFi/QDKgaI=
+			FjwDJoJOXepleOROcOj+KnoVN8yi2BXByWt2j+qyFRs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/lep-Te-aa6-view-SB3-Dt-Q1S.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S5LGHnPS99Q5CteTCoAFAHy3u6dnX0FDxt6bQFeVuD4=
+			ywfp3MINeWhQQdgkD8dsGngKs/puYARSxIZmwE3kcew=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/loading_page.nib</key>
@@ -226,7 +338,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			81EtgZ07fDrBVj0tF01KlajqbNtB7lMCWiYgpgRJ6OQ=
+			26Yd/qY2+0uQqQ/yiwjnBlgIMHFkdFIw4hOgBrv+nSM=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/netbankingpage.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eQbBAJuuW4grYcy1mTJuVicxDEfMYRhDxCWDR1QuAJY=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/phoneNumberPopup.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aVN18XrnXE3vY+R+aA77823FkYgo8RnWxFRLYou0PZQ=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/starting_page.nib</key>
@@ -243,11 +369,25 @@
 			gHeRYpaP68zWar+QTvhzr/w3Bkz6w8C4LlSR2+lKr2A=
 			</data>
 		</dict>
+		<key>Base.lproj/Main.storyboardc/xFj-m4-RHB-view-Czi-y7-2Yz.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nINppw6nE1UfVSfihiUDu9lizQB7zzJVV2NNeuKESFw=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
+			</data>
+		</dict>
 		<key>Base.lproj/Main.storyboardc/z7g-Tf-1qB-view-NtT-G3-4Ig.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			txbts4nOaGIPyV9r7mq4R0wStBjKZ5vlbBDtzr797Xs=
+			fZJDMzQJPW2g/Drb+tF7qlIhOKnkHmP+BylbUqSXNes=
 			</data>
 		</dict>
 		<key>Headers/IOS_SDK_V2.h</key>
@@ -257,74 +397,88 @@
 			u89k+v5aI4+x+i5JzaEmLs9hXFo7I3lyIigVpvMrbBs=
 			</data>
 		</dict>
+		<key>Headers/IOS_SDK_native-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GABKh5AeK9Eyk1+H2FVUVg3ReDxiCK+kw66z435Xero=
+			</data>
+		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JxsPZMkyN2ECxSekPVCryoB6ToD4ThZtbJ4M8Ah5nWo=
+			PfGYQB/Y1kb3b8mQ5RdmqX8NOhZnIRO7d7OMdcZmyNk=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yxblUQ3fUo6dUhYgjKJ9wJvEj/sOzFW1cLPGXmmYejM=
+			lBYWKQlup7jywS1NDjxky2IQUUHgEBr1sHmpzsXm2fg=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q88eq9z8PoZ3IzpR7IRgmKptjSZi11SxkWLZ1nzY9I4=
+			Q/v4KSd4mk88lWkZXKoxQoHkqdLIYqd2gt8M9c38qVA=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yxblUQ3fUo6dUhYgjKJ9wJvEj/sOzFW1cLPGXmmYejM=
+			lBYWKQlup7jywS1NDjxky2IQUUHgEBr1sHmpzsXm2fg=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g3mLvJdmF15l1rMPkn5dHTsEGo4Ntg3ZoDM8E13avFw=
+			7Ui/QxWV5pUfFyp8EeUyold6WCEkTR40itePB4jFn5U=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JxsPZMkyN2ECxSekPVCryoB6ToD4ThZtbJ4M8Ah5nWo=
+			PfGYQB/Y1kb3b8mQ5RdmqX8NOhZnIRO7d7OMdcZmyNk=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VGk5WQ5BDAdiCqO2y9LjXn4BvrrTroB8zchAur+R/iE=
+			Zx0itOcuHWyRUdoFjy0w94FnJeMfr88jjvXkgvJP0gg=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			btjIKvsYY1XiaABb6sltpgahjUqxGXmcegyHrGvOwIo=
+			20WggJYMone6JWIKWGqri+ZsN+S4VXJOiQIFTjodgiQ=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VGk5WQ5BDAdiCqO2y9LjXn4BvrrTroB8zchAur+R/iE=
+			Zx0itOcuHWyRUdoFjy0w94FnJeMfr88jjvXkgvJP0gg=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BxrH/SiTuxs0y/UisiaerTMcT5B8+GG4V7SlBDoEzC0=
+			IRaKQ+mz/jcXxhuK7kaUV2bZUUBRPWbD5x8gjDgnabM=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rmo3smJsrKtqiZrxivD3zM2+0l6Gpel5wXb1VBDCpn0=
 			</data>
 		</dict>
 		<key>logo_shimmer.json</key>
