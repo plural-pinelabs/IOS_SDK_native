@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = 'IOS_SDK_native'
-    spec.version      = '0.1.2'
+    spec.version      = '0.1.3'
     spec.license      = "MIT"
     spec.homepage     = 'https://github.com/plural-pinelabs/IOS_SDK_native'
     spec.authors      = { 'Sourav Shandilya' => 'plural-online@pinelabs.com' }
