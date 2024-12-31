@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
     spec.authors      = { 'Sourav Shandilya' => 'plural-online@pinelabs.com' }
     spec.summary      = 'IOS SDK native Cocoa Pod'
     spec.description  = 'IOS SDK native Cocoa Pod'
-    spec.source       = { :git => 'https://github.com/souravshandilya-pinelabs/PinePGSDK', :tag => spec.version }
+    spec.source       = { :git => 'https://github.com/plural-pinelabs/IOS_SDK_native', :tag => spec.version }
     spec.vendored_frameworks = "IOS_SDK_native.xcframework"
     spec.platform = :ios
     spec.swift_version = "4.2"
