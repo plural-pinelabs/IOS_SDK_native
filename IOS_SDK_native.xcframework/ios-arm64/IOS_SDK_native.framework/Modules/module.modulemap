@@ -1,4 +1,0 @@
-framework module IOS_SDK_native {
-  header "IOS_SDK_native-Swift.h"
-  requires objc
-}

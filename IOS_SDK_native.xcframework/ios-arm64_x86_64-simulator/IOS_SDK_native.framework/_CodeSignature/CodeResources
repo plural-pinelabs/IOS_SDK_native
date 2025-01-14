@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		QgYyDR7Qh5ZXcKrNDTtNZ363GRw=
+		CX5/fAJ3atDIEg0QwSeb2BA0S7E=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/6a7-wj-Lpp-view-Apu-qn-nxf.nib</key>
 		<data>
-		XaxUq8CbuQgzU0mRW0DAEKlmcZk=
+		4z9X6VHumW3QKGLYpjSscDYD664=
 		</data>
 		<key>Base.lproj/Main.storyboardc/CAn-LP-kDu-view-WWW-uB-p8i.nib</key>
 		<data>
-		K/jo3rGXIUv6P4xmGCK/fK7wUXg=
+		XNMhyckAkZgzHcgddI/PqWZ4omI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/CardsPageViewController.nib</key>
 		<data>
@@ -38,15 +38,19 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		R9EymA0TgzgJQAw+W/7OzHsZidA=
+		iAH4qiYXQa25w2krWKtJsU5U3Yo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/OBB-dt-4N7-view-sdi-YT-jmd.nib</key>
 		<data>
-		sFLe4nP3o7UMBdOtNXbba7anSc4=
+		SLfkZvOwFfVwII7y0avASFYT/d4=
 		</data>
 		<key>Base.lproj/Main.storyboardc/PaymentPopupViewController.nib</key>
 		<data>
 		iTxAF6HXoXhTZr3pLVtlVkfYLrU=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UIViewController-mFv-Ms-EeK.nib</key>
+		<data>
+		MZ1aD+8bRa4BxpV+zMPBlbwtF1U=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-ytx-aP-IBa.nib</key>
 		<data>
@@ -58,7 +62,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/VfV-0F-I2m-view-fSX-1z-gAA.nib</key>
 		<data>
-		rwx1QjLmeShwEVoBWl+ilJYhph8=
+		cA+y+c+HymTuQJcNjRGQ7DyMrVo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/WebViewController.nib</key>
 		<data>
@@ -66,11 +70,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/dSd-jn-b8m-view-bbV-DR-lPz.nib</key>
 		<data>
-		+3JJwMr8dajK2ksmvJ//W5pExbk=
+		EJ391q97RWlf0cvcPkV9u036XCE=
 		</data>
 		<key>Base.lproj/Main.storyboardc/eBf-fA-QR4-view-9PG-Re-r9f.nib</key>
 		<data>
-		eysF9fiPC0MvycWohm2w9lFLcEs=
+		4QAtkcu/y5ytv4IIj/610vd2wnU=
 		</data>
 		<key>Base.lproj/Main.storyboardc/failureScreen.nib</key>
 		<data>
@@ -78,7 +82,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/landing_page.nib</key>
 		<data>
-		zbxWKMJE7erlqQDBScSFXr2Ul1E=
+		Jc374r5rPCr7wHek+45bb2OTteo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/lep-Te-aa6-view-SB3-Dt-Q1S.nib</key>
 		<data>
@@ -86,11 +90,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/loading_page.nib</key>
 		<data>
-		9LNeAa2qhnnkkpEiVGWfgcKzPek=
+		UgII4G7yPbE7o2JpNOz1gnogAQs=
+		</data>
+		<key>Base.lproj/Main.storyboardc/mFv-Ms-EeK-view-cSp-ac-Dmm.nib</key>
+		<data>
+		0Yz9J4Z8xKY1oRPVyYxsBG0dzfQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/nHB-RT-l94-view-YjW-WV-AJi.nib</key>
 		<data>
-		ZdkChgwAQzkDmvWiBLVcbxUJrho=
+		un4RyJHrqebqvXfP2W1YnYo+XDE=
 		</data>
 		<key>Base.lproj/Main.storyboardc/netbankingpage.nib</key>
 		<data>
@@ -98,7 +106,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/phoneNumberPopup.nib</key>
 		<data>
-		d7aO3BMOUjpORFmWc7+zUZt5S/Y=
+		esHqqFm1vtKlPp+IipZn5V02NE8=
 		</data>
 		<key>Base.lproj/Main.storyboardc/starting_page.nib</key>
 		<data>
@@ -110,7 +118,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/xFj-m4-RHB-view-Czi-y7-2Yz.nib</key>
 		<data>
-		j9V5KzziC3b3r3VraO6hD1LBAE4=
+		S6Pb7qhTa2FFiTteN87sCW/MKKs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
 		<data>
@@ -118,15 +126,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/z7g-Tf-1qB-view-NtT-G3-4Ig.nib</key>
 		<data>
-		XufUZZkB+/tKSTcGjbAy0OBDwYI=
+		KNv8DoBhbP3IgZ9rZt1NEzx31eg=
 		</data>
 		<key>Headers/IOS_SDK_V2.h</key>
 		<data>
 		4EV7w8vvTupTHUgVrpUaeWdgyZ0=
-		</data>
-		<key>Headers/IOS_SDK_native-Swift.h</key>
-		<data>
-		iyNGcZ/Kpc+N2T9oo6xXcTMC+qI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -134,11 +138,11 @@
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		SBssRxnSSB+b7I32vF9w6lzSSu8=
+		6qbYMcqfKuU70j4fwmOBa8HWWuQ=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9BogTkKARx3pLwQ5lEC1WPw9PrI=
+		PzCLuzz7XuvzaeBRbqJUPCosPRA=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -146,19 +150,19 @@
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9BogTkKARx3pLwQ5lEC1WPw9PrI=
+		PzCLuzz7XuvzaeBRbqJUPCosPRA=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UWV77mlUDGOTb3eROTlCSg4EwEg=
+		9uLzvh45yDBiW4fVt36l9u6lPtE=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		SBssRxnSSB+b7I32vF9w6lzSSu8=
+		6qbYMcqfKuU70j4fwmOBa8HWWuQ=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		zq8lN0U4ZnqQi8ZyOcPr7Rt/kV0=
+		Edrs34Lg6f2LjgRCMyqIqKFq5xk=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -166,23 +170,11 @@
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		zq8lN0U4ZnqQi8ZyOcPr7Rt/kV0=
+		Edrs34Lg6f2LjgRCMyqIqKFq5xk=
 		</data>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aLXu9MfL0sAGmqJ0SsptjyA8JOc=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		jftLpmiImBg+U3hB4vs6ZMWcOIg=
-		</data>
-		<key>logo_shimmer.json</key>
-		<data>
-		yhRcw1CMgRIBKNlwuhOkzqhfLlg=
-		</data>
-		<key>logo_shimmer_orange.json</key>
-		<data>
-		lCEKKkI3ZB05VtPSnxIisib1+sM=
+		ZXXw/k2TG6nHDjqx///+7I7/7n0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -191,7 +183,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1RkaCeTkXHGJCL9QliJ6BhVJNYumoltPS2NlQ/vNo7I=
+			+Pap8lofZeDpfEl88nbAEEIujjYv35hgx/oQ/iwXINE=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -219,14 +211,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4zAbrfrCzGlVlW7DREmfXcTs2W97Qad87vXLGi+M7K4=
+			ttL9/QJ1T4D8R3Tx+ZkteKeAIFN9+QkPDsQq0qvzdyE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/CAn-LP-kDu-view-WWW-uB-p8i.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qtYQPbhD7KD1rJKID/HzwDrckrSAzuNvhFELw08/qXU=
+			nqm4jDejTUBrpz/J7Ick1INwe+xMewPwpbstRicjnrY=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/CardsPageViewController.nib</key>
@@ -247,14 +239,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			73a6WKL8HGqIUj4Cxsjnu5jBxqxqAyAcg7U1VXk5TRw=
+			Ey2ofueK4NGYw+rlNP9F158hvTFIZQxbw0vH5Al1QiM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/OBB-dt-4N7-view-sdi-YT-jmd.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MXvFIMnosWIJ5l0juR8tO72HPY/TXl0owqt+z7ZOXoI=
+			+PQ+UxbwWk1jH9mtZyYWmawGX6WuAMmjHDyVr31n5cQ=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/PaymentPopupViewController.nib</key>
@@ -262,6 +254,13 @@
 			<key>hash2</key>
 			<data>
 			OSM28fXG78nnE/DtSaZ5BWarkE33PznXCT4apiatXBo=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-mFv-Ms-EeK.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m+Rd2g0X28Sv6TWyIB0YPFFH9U8xcApH6njlPXaqTwU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-ytx-aP-IBa.nib</key>
@@ -282,7 +281,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N0mYKFOJBQ6gSgC4t2hCvZhIu95ypjYhJp+Ibw4q4ag=
+			qCOOVZOy80/Km20w0gD2Jj/jDw1TFL2+kFT6DOgxye8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/WebViewController.nib</key>
@@ -296,14 +295,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jdU2oC9zGiT4zZwX2Z/b3jIApaBYTrJZZ9HJ6IlQMdI=
+			K0Yybjc+cD5x/hUje67d6KrqGbP2gDBILbxhrHhq5UM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/eBf-fA-QR4-view-9PG-Re-r9f.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CWNe8sPjnwCT1fNxgm0rv2/aR5ZEzIyhcJBhJyDn7D8=
+			qQM3UUJ8WCUQHtB5uKaVoOBbip+B9XnhaWaHA2CoWVs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/failureScreen.nib</key>
@@ -317,7 +316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FjwDJoJOXepleOROcOj+KnoVN8yi2BXByWt2j+qyFRs=
+			X1fb8Prgc7PQoIT8cnfVyEsyTRswZpr7tNEWLfDa5Hs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/lep-Te-aa6-view-SB3-Dt-Q1S.nib</key>
@@ -331,14 +330,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5/fcazWWr6hFGfz84ejIEE/Ny/TTXkvYqOdaMFrkd3o=
+			oSmLqanl6vZRXNld1ex3fRRycijPDbn7dWt5Qorf4oQ=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/mFv-Ms-EeK-view-cSp-ac-Dmm.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IIRyUNO+lsKfPWa5FAh8mhB/E/R38r4w7Sbe1pAtwOg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/nHB-RT-l94-view-YjW-WV-AJi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			26Yd/qY2+0uQqQ/yiwjnBlgIMHFkdFIw4hOgBrv+nSM=
+			8id3MZtPBkz4eoDYzLfOf1yeGGpZ/n1MZ+vUqWF5P4o=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/netbankingpage.nib</key>
@@ -352,7 +358,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aVN18XrnXE3vY+R+aA77823FkYgo8RnWxFRLYou0PZQ=
+			bzaYf3v/uM1YKbXDjQMUjZb+uZSdBTzgRvGH1x7ZOBg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/starting_page.nib</key>
@@ -373,7 +379,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nINppw6nE1UfVSfihiUDu9lizQB7zzJVV2NNeuKESFw=
+			BHu7VZi7Q2HmaXlFZXpM+h1kzPGYSDe/0Oev4rPo3hM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/ytx-aP-IBa-view-XOL-uT-FEt.nib</key>
@@ -387,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZJDMzQJPW2g/Drb+tF7qlIhOKnkHmP+BylbUqSXNes=
+			enXZyIS3NaOfZEisFNxjoOUyBTuXWZUzV0BPxHAOLJQ=
 			</data>
 		</dict>
 		<key>Headers/IOS_SDK_V2.h</key>
@@ -397,25 +403,18 @@
 			u89k+v5aI4+x+i5JzaEmLs9hXFo7I3lyIigVpvMrbBs=
 			</data>
 		</dict>
-		<key>Headers/IOS_SDK_native-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GABKh5AeK9Eyk1+H2FVUVg3ReDxiCK+kw66z435Xero=
-			</data>
-		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PfGYQB/Y1kb3b8mQ5RdmqX8NOhZnIRO7d7OMdcZmyNk=
+			CzE2E2+EqI4uYoJnmqqqsriJ/UJC9w7ewhn/pf8fPlI=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lBYWKQlup7jywS1NDjxky2IQUUHgEBr1sHmpzsXm2fg=
+			Pg6HiM+jy3nPf/BFPBf5PkRLjia5gG0UuJeuaJeieS0=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -429,28 +428,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lBYWKQlup7jywS1NDjxky2IQUUHgEBr1sHmpzsXm2fg=
+			Pg6HiM+jy3nPf/BFPBf5PkRLjia5gG0UuJeuaJeieS0=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Ui/QxWV5pUfFyp8EeUyold6WCEkTR40itePB4jFn5U=
+			9j7l7p5Cuivw2MbfeEPo0ZC0sWc1JUKJuttTk4XE0PI=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PfGYQB/Y1kb3b8mQ5RdmqX8NOhZnIRO7d7OMdcZmyNk=
+			CzE2E2+EqI4uYoJnmqqqsriJ/UJC9w7ewhn/pf8fPlI=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zx0itOcuHWyRUdoFjy0w94FnJeMfr88jjvXkgvJP0gg=
+			qx16BKcGBnHR0dEC1/ZpUMY2+jRPShz7Vsd7XQggSAM=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -464,35 +463,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zx0itOcuHWyRUdoFjy0w94FnJeMfr88jjvXkgvJP0gg=
+			qx16BKcGBnHR0dEC1/ZpUMY2+jRPShz7Vsd7XQggSAM=
 			</data>
 		</dict>
 		<key>Modules/IOS_SDK_native.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRaKQ+mz/jcXxhuK7kaUV2bZUUBRPWbD5x8gjDgnabM=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rmo3smJsrKtqiZrxivD3zM2+0l6Gpel5wXb1VBDCpn0=
-			</data>
-		</dict>
-		<key>logo_shimmer.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4O0qU2bn7SI25ZDbXZu6oE+8xgd4DstkW70Hkp9t1kY=
-			</data>
-		</dict>
-		<key>logo_shimmer_orange.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QhhSPDSO7eE9V5UAZ0CH1tdE7PuDdEFo9QbDlIlDDB8=
+			NfnM8rs2NRqRWBkQTgmBuu7no7qwLFyAcMnRZez3VxA=
 			</data>
 		</dict>
 	</dict>
